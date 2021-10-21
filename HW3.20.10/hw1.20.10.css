@@ -1,0 +1,34 @@
+.container{
+    margin: 0 auto;
+    width: 600px;
+    height: 650px;
+    background-color: deepskyblue;
+}
+.d_flex{
+    display: flex;
+}
+.flex_di_c{
+    flex-direction: column;
+}
+.just_con{
+    justify-content: space-between;
+}
+.col_gap{
+    grid-column-gap: 10px;
+}
+.row-gap{
+    grid-row-gap: 10px;
+}
+
+.height180{
+    height: 180px;
+}
+.back_color_yellow{
+    background-color: yellow;
+}
+.child{
+    width: 200px;
+}
+.footer{
+    height: 220px;
+}

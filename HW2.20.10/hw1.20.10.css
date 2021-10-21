@@ -1,0 +1,43 @@
+.container{
+    margin: 0 auto;
+    width: 600px;
+    height: 900px;
+    background-color: deepskyblue;
+}
+.boreder{
+    border: 2px solid black;
+}
+.d_flex{
+    display: flex;
+}
+.f_d_col{
+    flex-direction: column;
+}
+.jus_con{
+    justify-content: space-between;
+}
+.color_red{
+    background-color: palevioletred;
+}
+.height200{
+    height: 200px;
+}
+.main-left{
+    width: 35%;
+    /*height: 400px;*/
+}
+.main{
+    height: 400px;
+}
+
+.main-right-c{
+    width: 400px;
+    height: 180px;
+}
+.col-gap{
+    grid-column-gap:20px;
+}
+.row-gap{
+    grid-row-gap: 10px;
+}
+

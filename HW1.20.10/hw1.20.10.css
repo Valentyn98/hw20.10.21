@@ -1,0 +1,35 @@
+.container{
+    margin: 0 auto;
+    padding: 5px;
+    width: 600px;
+    background-color: darksalmon;
+}
+.border{
+    border: 3px solid black;
+}
+.color_blue{
+    background-color: deepskyblue;
+}
+.head{
+    height: 200px;
+    margin-bottom: 5px;
+
+}
+.child{
+    width: 400px;
+    height: 200px;
+}
+.child-s{
+    flex-grow: 1;
+    height: 200px;
+}
+.d_flex{
+    display: flex;
+}
+.f_d_col{
+    flex-direction: column;
+}
+.column-gap{
+    column-gap: 5px;
+}
+/*КАК сделать чт бы РОВ ГЕП работало , я пробовал , нифига =( */

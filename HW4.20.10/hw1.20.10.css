@@ -1,0 +1,36 @@
+.container{
+    margin: 0 auto;
+    width: 700px;
+    /*height: 900px;*/
+    padding: 5px;
+}
+.d_flex{
+    display: flex;
+}
+.flex_di_c{
+    flex-direction: column;
+}
+.height200px{
+    height: 200px;
+}
+.color_blue{
+    background-color: deepskyblue;
+}
+.color_yellow{
+    background-color: yellow;
+}
+.border_black{
+    border: 2px dotted black;
+}
+.main_header{
+    height: 300px;
+}
+.left_menu{
+    height: 400px;
+    width: 500px;
+}
+.right_menu{
+    height: 400px;
+    width: 200px;
+}
+
