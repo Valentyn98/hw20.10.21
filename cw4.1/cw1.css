@@ -1,0 +1,82 @@
+.wrapper{
+    background-color: deepskyblue;
+    width: 850px;
+    height: 330px;
+    margin: 0 auto;
+}
+.container{
+    width: 750px;
+    height: 270px;
+    margin: 0 auto;
+    border: 10px dotted red;
+    border-radius: 10%;
+    padding: 0 10px;
+    background-color: deepskyblue;
+}
+.container-two{
+    margin-top: 40px;
+    height: 270px;
+    padding: 25px 10px;
+    background-color: green;
+}
+.circle{
+    border-radius: 50%;
+    background-color: deepskyblue;
+}
+.child{
+    padding: 20px;
+}
+.block_under_sq{
+    height: 15px;
+    width: 150px;
+}
+.d_flex{
+    display: flex;
+}
+.just_con_c{
+    justify-content: center;
+}
+.alig_it_c{
+    align-items: center;
+}
+.flex_wrap{
+    flex-wrap: wrap;
+}
+.flex_di_c{
+    flex-direction: column;
+}
+.just_cont_sp_a{
+    justify-content: space-around;
+}
+.just_cont_sp_b{
+    justify-content: space-between;
+}
+.color_pink{
+    background-color: pink;
+}
+.color_red{
+    background-color: palevioletred;
+}
+.border_r{
+    border-radius: 10%;
+}
+.border{
+    border: 3px solid black;
+}
+.row_gap{
+    grid-row-gap: 10px;
+}
+.col_gap{
+    grid-column-gap: 10px;
+}
+.heigweig150{
+    height: 150px;
+    width: 150px;
+}
+.heigweig250{
+    height: 150px;
+    width: 150px;
+}
+
+
+
